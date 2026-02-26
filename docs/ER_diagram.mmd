@@ -1,0 +1,64 @@
+erDiagram
+    USUARIOS {
+        int id PK
+        varchar nombre_completo
+        varchar usuario
+        varchar password
+        varchar rol
+        int role_id FK
+    }
+    ROLES {
+        int id PK
+        varchar nombre
+    }
+    ESTUDIANTES {
+        int id PK
+        varchar ci
+        varchar nombres
+        varchar apellidos
+    }
+    CURSOS {
+        int id PK
+        varchar nombre_curso
+        int docente_id FK
+    }
+    INSCRIPCIONES {
+        int id PK
+        int estudiante_id FK
+        int curso_id FK
+        datetime fecha_inscripcion
+    }
+    CALIFICACIONES {
+        int id PK
+        int inscripcion_id FK
+        decimal nota1
+        decimal nota2
+        decimal nota3
+        decimal nota_final
+    }
+    MODULOS_AUDITORIA {
+        int id PK
+        varchar nombre
+    }
+    ACCIONES_AUDITORIA {
+        int id PK
+        varchar nombre
+    }
+    AUDITORIA {
+        int id PK
+        datetime fecha
+        varchar usuario
+        varchar accion
+        varchar modulo
+        int accion_id FK
+        int modulo_id FK
+        text detalles
+    }
+
+    USUARIOS ||--o{ ROLES : "role_id -> id"
+    ESTUDIANTES ||--o{ INSCRIPCIONES : "estudiante_id -> id"
+    CURSOS ||--o{ INSCRIPCIONES : "curso_id -> id"
+    INSCRIPCIONES ||--o{ CALIFICACIONES : "inscripcion_id -> id"
+    MODULOS_AUDITORIA ||--o{ AUDITORIA : "modulo_id -> id"
+    ACCIONES_AUDITORIA ||--o{ AUDITORIA : "accion_id -> id"
+    CURSOS ||--o{ USUARIOS : "docente_id -> id"

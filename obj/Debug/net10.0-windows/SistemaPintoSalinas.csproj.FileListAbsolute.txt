@@ -1,0 +1,185 @@
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.AssemblyReference.cache
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.AssemblyInfoInputs.cache
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.AssemblyInfo.cs
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.exe
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.deps.json
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.runtimeconfig.json
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaP.B8991CA8.Up2Date
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\refint\SistemaPintoSalinas.dll
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.genruntimeconfig.cache
+C:\Users\Elias\Downloads\programa\SistemaPintoSalinas\obj\Debug\net10.0-windows\ref\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.exe
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.deps.json
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.runtimeconfig.json
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.AssemblyReference.cache
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.AssemblyInfoInputs.cache
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.AssemblyInfo.cs
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.CoreCompileInputs.cache
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaP.B8991CA8.Up2Date
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\refint\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.genruntimeconfig.cache
+C:\Users\ELIAS\Documents\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\ref\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.exe
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.deps.json
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.runtimeconfig.json
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.AssemblyReference.cache
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.AssemblyInfoInputs.cache
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.AssemblyInfo.cs
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.CoreCompileInputs.cache
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaP.B8991CA8.Up2Date
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\refint\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.genruntimeconfig.cache
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\obj\Debug\net10.0-windows\ref\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\PdfSharp.Charting.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\PdfSharp.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\SistemaPintoSalinas\bin\Debug\net10.0-windows\de\PdfSharp.resources.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.AssemblyReference.cache
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.CoreCompileInputs.cache
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.exe
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.deps.json
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.runtimeconfig.json
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\PdfSharp.Charting.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\PdfSharp.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\zxing.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\de\PdfSharp.resources.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaP.B8991CA8.Up2Date
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\obj\Debug\net10.0-windows\refint\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.genruntimeconfig.cache
+C:\Users\ELIAS\Documents\Proyectos de la uni\Programa php\Versiones\SistemaPintoSalinas\obj\Debug\net10.0-windows\ref\SistemaPintoSalinas.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.exe
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.deps.json
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.runtimeconfig.json
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\PdfSharp.Charting.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\PdfSharp.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\zxing.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\de\PdfSharp.resources.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.AssemblyReference.cache
+C:\Users\moisito\Music\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moisito\Music\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.CoreCompileInputs.cache
+C:\Users\moisito\Music\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaP.B8991CA8.Up2Date
+C:\Users\moisito\Music\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\obj\Debug\net10.0-windows\refint\SistemaPintoSalinas.dll
+C:\Users\moisito\Music\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\moisito\Music\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.genruntimeconfig.cache
+C:\Users\moisito\Music\SistemaPintoSalinas\obj\Debug\net10.0-windows\ref\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.exe
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.deps.json
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.runtimeconfig.json
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\PdfSharp.Charting.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\PdfSharp.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\QRCoder.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\zxing.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\de\PdfSharp.resources.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.AssemblyReference.cache
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.csproj.CoreCompileInputs.cache
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaP.B8991CA8.Up2Date
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\obj\Debug\net10.0-windows\refint\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.pdb
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\obj\Debug\net10.0-windows\SistemaPintoSalinas.genruntimeconfig.cache
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\obj\Debug\net10.0-windows\ref\SistemaPintoSalinas.dll
+C:\Users\ELIAS\Downloads\Proyectos\SistemaPintoSalinas\bin\Debug\net10.0-windows\Manual.txt

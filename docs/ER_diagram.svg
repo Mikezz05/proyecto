@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated SVG placeholder: renderMermaidDiagram returned mermaid text; create a simple fallback SVG with the mermaid code as text for reviewers. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <foreignObject x="8" y="8" width="1184" height="784">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <pre style="font-family: monospace; font-size:12px; white-space:pre-wrap;">erDiagram
+    USUARIOS {\n        int id PK\n        varchar nombre_completo\n        varchar usuario\n        varchar password\n        varchar rol\n        int role_id FK\n    }\n    ROLES {\n        int id PK\n        varchar nombre\n    }\n    ESTUDIANTES {\n        int id PK\n        varchar ci\n        varchar nombres\n        varchar apellidos\n    }\n    CURSOS {\n        int id PK\n        varchar nombre_curso\n        int docente_id FK\n    }\n    INSCRIPCIONES {\n        int id PK\n        int estudiante_id FK\n        int curso_id FK\n        datetime fecha_inscripcion\n    }\n    CALIFICACIONES {\n        int id PK\n        int inscripcion_id FK\n        decimal nota1\n        decimal nota2\n        decimal nota3\n        decimal nota_final\n    }\n    MODULOS_AUDITORIA {\n        int id PK\n        varchar nombre\n    }\n    ACCIONES_AUDITORIA {\n        int id PK\n        varchar nombre\n    }\n    AUDITORIA {\n        int id PK\n        datetime fecha\n        varchar usuario\n        varchar accion\n        varchar modulo\n        int accion_id FK\n        int modulo_id FK\n        text detalles\n    }\n\n    USUARIOS ||--o{ ROLES : \"role_id -> id\"\n    ESTUDIANTES ||--o{ INSCRIPCIONES : \"estudiante_id -> id\"\n    CURSOS ||--o{ INSCRIPCIONES : \"curso_id -> id\"\n    INSCRIPCIONES ||--o{ CALIFICACIONES : \"inscripcion_id -> id\"\n    MODULOS_AUDITORIA ||--o{ AUDITORIA : \"modulo_id -> id\"\n    ACCIONES_AUDITORIA ||--o{ AUDITORIA : \"accion_id -> id\"\n    CURSOS ||--o{ USUARIOS : \"docente_id -> id\"</pre>
+    </body>
+  </foreignObject>
+</svg>

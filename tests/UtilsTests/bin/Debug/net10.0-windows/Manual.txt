@@ -1,0 +1,134 @@
+MANUAL DE USUARIO - SISTEMA ESCOLAR
+
+Este manual está diseñado para un usuario sin experiencia previa. Lee cada sección
+cuidadosamente antes de usar la aplicación.
+
+1. Requisitos previos
+--------------------
+- Tener instalado .NET 6/7 (auto incluido en el proyecto).
+- Acceso a la base de datos MySQL correspondiente y credenciales válidas.
+- Los archivos de logo (`Logo.png`) deben estar en la misma carpeta que el `.exe`.
+
+2. Arranque de la aplicación
+----------------------------
+- Ejecuta `SistemaPintoSalinas` ejecutando el comando "dotnet run" en la terminal.
+- Aparecerá la ventana de inicio de sesión.
+
+3. Inicio de sesión
+-------------------
+- Introduce tu nombre de usuario y contraseña.
+- Si eres administrador, tu rol será "Admin"; los docentes obtienen "Docente" y
+  los estudiantes "Estudiante".
+- Al presionar "Iniciar sesión" se cargará el formulario principal.
+- Si los datos son incorrectos, se mostrará un mensaje y tendrás que volver a
+  intentarlo.
+
+4. Menú principal
+-----------------
+- Situado a la izquierda, contiene botones según tu rol.
+- Todos los usuarios ven "Manual de Usuario" y "Cerrar Sesión".
+- Admin tiene acceso a: Centro de Reportes, Respaldo BD, Auditoría Usuarios,
+  Certificación, Calificaciones, Gestión Académica, Inscripciones.
+- Docente: Calificaciones.
+- Estudiante: Mis Notas.
+- Haz clic en un botón para abrir el módulo correspondiente en el panel de
+  la derecha. El título superior indicará qué módulo está activo.
+
+5. Módulo "Inscripciones" (solo Admin)
+--------------------------------------
+- Llena los datos del estudiante: cédula, nombres, apellidos, teléfono,
+  correo.
+- Selecciona uno o varios cursos marcando la casilla.
+- Si marca el checkbox "Requisitos Verificados" el campo se guardará.
+- "Inscribir" guarda los datos y añade una fila por curso en la tabla
+  `estudiantes`.
+- "Modificar" cambia los datos de un alumno ya cargado (selecciona la fila
+  hacia la derecha antes) y permite añadir o quitar cursos. No borres campos
+  manualmente; usa el botón para evitar errores de integridad.
+- "Eliminar" borra al alumno y sus calificaciones (se pide confirmación).
+- El grid muestra los registros recientes; haz clic en una para cargarla en el
+  formulario.
+- Si intentas inscribir el mismo alumno en un curso donde ya está inscrito, se
+  ignorará la fila duplicada.
+
+6. Módulo "Calificaciones" (Admin/Docente)
+------------------------------------------
+- Pestaña "Registro de Evaluaciones":
+  * Selecciona un curso en el primer desplegable.
+  * El segundo desplegable muestra los estudiantes inscritos en ese curso.
+  * Introduce las notas y descripciones de cada evaluación. El botón
+    "Guardar Nueva Nota" activa cuando hay datos válidos.
+  * Si ya existen calificaciones para ese estudiante/curso, el formulario se
+    pone en modo edición y permite modificar los valores.
+- Pestaña "Cierre de Curso y Promedios":
+  * Selecciona un curso y pulsa "Recalcular Promedios y Cerrar". Esto
+    actualiza el campo `nota_final` y marca si el alumno aprobó.
+  * Puedes eliminar una calificación equivocada seleccionando la fila y
+    pulsando "Eliminar Nota Seleccionada". Aparecerá un cuadro de confirmación.
+
+7. Módulo "Centro de Reportes" (Admin)
+----------------------------------------
+- Selecciona el tipo de reporte en el combo superior izquierdo.
+- Haz clic en "Exportar Reporte a Archivo".
+- Elige la ubicación y nombre; el archivo se genera en PDF con el membrete y
+  logo institucional.
+- Los reportes incluyen listas de estudiantes, docentes, auditoría, calendario,
+  reprobados, constancias de inscripción y listado de cursos.
+
+8. Módulo "Certificación" (Admin)
+----------------------------------
+- Elige un estudiante (aparecen sólo una vez, aun si está en varios cursos).
+- El combo de curso muestra sólo materias en las que el estudiante obtuvo
+  calificación aprobatoria.
+- Pulsa "Verificar Requisitos" para chequear si el alumno cumple condiciones
+  administrativas y académicas. Los indicadores se actualizan y el botón
+  "Generar Certificado Digital" se activa si ambas son positivas.
+- Al generar el certificado se crea un PDF con el logo, texto oficial y firma.
+  El documento se abre automáticamente.
+- Puedes agendar la ceremonia de graduación indicando la fecha y pulsando
+  "Agendar Ceremonia".
+
+9. Módulo "Respaldo BD" (Admin)
+--------------------------------
+- Permite realizar copia de seguridad de la base de datos.
+- Selecciona la ubicación del archivo `.sql` donde quieras guardar y pulsa el
+  botón correspondiente.
+
+10. Módulo "Auditoría Usuarios" (Admin)
+----------------------------------------
+- Muestra un registro de operaciones realizadas por los usuarios.
+- Puedes filtrar o exportar la información según necesites.
+
+11. Módulo "Gestión Académica" (Admin)
+---------------------------------------
+- Administra cursos, materias, docentes, etc. Siga las instrucciones de la UI
+  para crear/modificar/eliminar elementos.
+
+12. Módulo "Mis Notas" (Estudiante)
+------------------------------------
+- El alumno ingresa su cédula y ve sus calificaciones en todos los cursos.
+
+13. Manual de Usuario (Todos los roles)
+--------------------------------------
+- Esta opción abre este archivo en el bloc de notas para consulta rápida.
+- también puede consultarse dentro de la carpeta de instalación.
+
+14. Cerrar Sesión
+-----------------
+- Al pulsar el botón "Cerrar Sesión" regresarás a la pantalla de inicio; podrás
+  iniciar sesión con otro usuario.
+
+15. Consejos generales
+----------------------
+- Asegúrate de usar datos válidos y existan los cursos/estudiantes en la base.
+- El sistema realiza validaciones básicas, pero no sustituye a un respaldo
+  regular.
+- En caso de error, copia el mensaje y consúltalo con el equipo técnico.
+
+16. Contacto y soporte
+----------------------
+- Para asistencia, comunícate con el administrador del sistema o el equipo de
+  soporte informático.
+
+---
+Fin del manual.
